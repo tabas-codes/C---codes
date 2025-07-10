@@ -1,0 +1,24 @@
+# Compiled objects and executables for C++
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.pdb
+*.ilk
+
+# Build directories (common names)
+build/
+Build/
+Debug/
+Release/
+bin/
+obj/
+
+# VS Code specific (often contains user-specific settings)
+.vscode/
+
+# Other common temporary or generated files
+*.log
+*.tmp
+*~
